@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iisaurralde
 - 👀 I’m interested in: AI, IT Automation, Cloud, DevOps.
-- 🌱 I’m currently learning: Python
+- 🌱 I’m currently learning: Python, IaaC
 - 💞️ I’m looking to collaborate on: Python projects.
 - 📫 How to reach me: iisaurralde13@gmail.com
 
