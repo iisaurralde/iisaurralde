@@ -1,11 +1,33 @@
-- 👋 Hi, I’m @iisaurralde
-- 👀 I’m interested in: AI, IT Automation, Cloud, DevOps.
-- 🌱 I’m currently learning: Python, IaaC
-- 💞️ I’m looking to collaborate on: Python projects.
-- 📫 How to reach me: iisaurralde13@gmail.com
+# 👋 Hey, I’m Nacho
 
+Sysadmin | Cloud | DevOps engineer who spends more time automating things than doing them
 
-<!---
-iisaurralde/iisaurralde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 What I do
+- 🏗️ Infrastructure
+- ☁️ Cloud, Kubernetes, Terraform  
+- ⚙️ CI/CD, automation, scripting  
+- 🤖 Trying to make AI do useful stuff  
+
+---
+
+## 🌱 Currently
+- Learning more Python  
+- Breaking things in Kubernetes (and fixing them)  
+
+---
+
+## 🤝 Open to
+- Python / DevOps / AI projects  
+- Anything interesting that solves real problems  
+
+---
+
+## 📫 Contact
+- iisaurralde13@gmail.com  
+
+---
+
+## ⚡ Fun fact
+If I have to do it twice, I’ll probably automate it.
